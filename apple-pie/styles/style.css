@@ -14,7 +14,7 @@ header {
   font-family: 'Roboto';
   color: white;
   padding: 250px 0;
-  background-image: url('images/apple-pie.jpg');
+  background-image: url('/apple-pie/images/apple-pie.jpg');
   background-size: cover;
   background-position: center center;
 }
@@ -31,7 +31,7 @@ main {
   margin: 0 auto;
 }
 
-p {
+p starter {
   font-family: 'Roboto';
   margin: 0;
   font-size: 22px;
@@ -68,5 +68,6 @@ hr {
   color: grey;
 }
 
-content {
+p content {
+  text-align: left;
 }
